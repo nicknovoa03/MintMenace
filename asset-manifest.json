@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/mintmenace/static/js/main.faae815b.chunk.js",
+    "main.js.map": "/mintmenace/static/js/main.faae815b.chunk.js.map",
+    "runtime-main.js": "/mintmenace/static/js/runtime-main.ca011534.js",
+    "runtime-main.js.map": "/mintmenace/static/js/runtime-main.ca011534.js.map",
+    "static/js/2.f956d393.chunk.js": "/mintmenace/static/js/2.f956d393.chunk.js",
+    "static/js/2.f956d393.chunk.js.map": "/mintmenace/static/js/2.f956d393.chunk.js.map",
+    "index.html": "/mintmenace/index.html",
+    "precache-manifest.be430d982d9cb082b6382558590d330e.js": "/mintmenace/precache-manifest.be430d982d9cb082b6382558590d330e.js",
+    "service-worker.js": "/mintmenace/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca011534.js",
+    "static/js/2.f956d393.chunk.js",
+    "static/js/main.faae815b.chunk.js"
+  ]
+}
