@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MintMenace/static/css/main.17e51bc2.chunk.css",
+    "main.js": "/MintMenace/static/js/main.b1294011.chunk.js",
+    "main.js.map": "/MintMenace/static/js/main.b1294011.chunk.js.map",
+    "runtime-main.js": "/MintMenace/static/js/runtime-main.3a70182f.js",
+    "runtime-main.js.map": "/MintMenace/static/js/runtime-main.3a70182f.js.map",
+    "static/js/2.f956d393.chunk.js": "/MintMenace/static/js/2.f956d393.chunk.js",
+    "static/js/2.f956d393.chunk.js.map": "/MintMenace/static/js/2.f956d393.chunk.js.map",
+    "index.html": "/MintMenace/index.html",
+    "precache-manifest.b570cf90d36604360b0c2915cfab1cc5.js": "/MintMenace/precache-manifest.b570cf90d36604360b0c2915cfab1cc5.js",
+    "service-worker.js": "/MintMenace/service-worker.js",
+    "static/css/main.17e51bc2.chunk.css.map": "/MintMenace/static/css/main.17e51bc2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a70182f.js",
+    "static/js/2.f956d393.chunk.js",
+    "static/css/main.17e51bc2.chunk.css",
+    "static/js/main.b1294011.chunk.js"
+  ]
+}
